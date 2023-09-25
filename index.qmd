@@ -1,6 +1,6 @@
 ---
 about:
-  template: jolla
+  template: marquee
   id: about-block
   image: "img/my_image.jpg"
   links:
