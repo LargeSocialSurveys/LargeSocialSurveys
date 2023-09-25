@@ -1,0 +1,22 @@
+---
+title: About Us
+---
+
+## Members
+
+
+Meet the members of the Large Social Surveys Research Group:
+
+
+::: {layout-ncol=2}
+
+![](scott.jpg) Scott Oatley
+
+![](kate.jpg) Kate O'Hara
+
+![](scot.jpg) Scot Hunter
+
+![](esme.jpg) Esme Lillywhite
+
+
+:::
