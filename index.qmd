@@ -2,7 +2,7 @@
 about:
   template: marquee
   id: about-block
-  image: "img/my_image.jpg"
+  image: "img/LSS_logo_border_white_square.png"
   links:
     - icon: twitter
       text: Twitter
