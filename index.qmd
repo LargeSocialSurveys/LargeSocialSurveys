@@ -1,0 +1,26 @@
+---
+about:
+  template: jolla
+  id: about-block
+  image: "img/logo.png"
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/LSocialSurveyRG
+    - icon: github
+      text: Github
+      href: https://github.com/LargeSocialSurveys
+    - icon: envelope
+      text: Email
+      href: "mailto:mail.largesocialsurveys@gmail.com"  
+---
+
+::: {#about-block}
+:::
+
+# Large Social Surveys Research Group
+
+The Large Social Surveys Research Group (LSS) brings together postgraduate and early careers social scientists to facilitate practical, methodological and epistemological discussions around using large-scale and/or complex social survey data. 
+
+This website hosts and documents our main activities and findings. Each month the research group meets up to discuss projects, findings, research, and proposals surrounding the work of large social surveys. We also put on larger events, including our annual to showcase research through presentations and feedback in a collaborative process. 
+

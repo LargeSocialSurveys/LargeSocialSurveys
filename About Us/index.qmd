@@ -1,0 +1,40 @@
+---
+title: About Us
+---
+
+## Members
+
+
+Meet the members of the Large Social Surveys Research Group:
+
+
+::: {layout-ncol=2}
+
+![](scott.jpg) Scott Oatley, [University of Edinburgh](https://scott0atley.github.io/Scott0atley/)
+
+![](kate.jpg) Kate O’Hara, [University of Stirling](https://www.kateohararesearch.uk/)
+
+![](scot.jpg) Scot Hunter, [University of Stirling](https://scotphunter.github.io/)
+
+![](esme.jpg) Esme Lillywhite, [Strathclyde University](https://esmelillywhite.github.io/)
+
+![](maddi.jpg) Maddi Bunker, [University of Edinburgh](https://www.sps.ed.ac.uk/staff/maddi-bunker)
+:::
+
+ Jiseon Baek, [University of St Andrews](https://research-portal.st-andrews.ac.uk/en/persons/jiseon-baek)
+
+ Zain Kurdi, [University of Edinburgh](https://www.sps.ed.ac.uk/staff/zain-kurdi)
+
+ Amalia Marifatul, University of Edinburgh 
+
+ Stacey McNicol, University of Stirling 
+
+ Clara Mascaro, [University of Edinburgh](https://www.sps.ed.ac.uk/staff/clara-mascaro)
+
+ Dalia Avello-Vega, University of Edinburgh
+
+ Lijie Zeng, [University of Edinburgh](https://www.ed.ac.uk/profile/lijie-zeng)
+
+ Shona Shinwell, [University of Dundee](https://discovery.dundee.ac.uk/en/persons/shona-shinwell-2)
+
+ Calum MacGillivray, [University of Dundee](https://discovery.dundee.ac.uk/en/persons/calum-macgillivray)
