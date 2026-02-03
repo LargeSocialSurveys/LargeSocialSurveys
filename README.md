@@ -1,4 +1,10 @@
-### Hi there 👋
+### Large Social Surveys Research Group
+
+Hello, and welcome. Large Social Surveys RG is a community of post-graduate and early-career researchers who used advanced quantitative methods with data large secondary datasets, typically from large social surveys, administrative data, and linkages between the two. We are a cross-institutional group, with most members working in doctoral training centres within Scottish Universities.
+
+We host monthly meetings, an online discussion group, and a yearly symposium. If you are interested in becoming a part of the community, please write to k.a.ohara@stir.ac.uk briefly explaining your project and the data and methods you are using. 
+
+We are open to collaboration and consultation with external organisations. If you would like to work with us or sponsor an event, please get in touch. 
 
 <!--
 **LargeSocialSurveys/LargeSocialSurveys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
